@@ -1,1 +1,3 @@
+mv ~/Descargas/pm-2-5-promedio-anual.csv data/raw/calidad_aire_Bogota_2010-2023.csv
+
 
